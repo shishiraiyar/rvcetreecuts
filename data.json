@@ -1,0 +1,14 @@
+{
+    "cse": {
+        "7": {
+            "subjects": [
+                {
+                    "name": "Minor Project",
+                    "num_students": 200,
+                    "avg_reports_per_student": 1.25,
+                    "avg_pages_per_report": 50
+                }
+            ]
+        }
+    }
+}
