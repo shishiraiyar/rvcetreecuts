@@ -3,10 +3,16 @@
         "7": {
             "subjects": [
                 {
+                    "name": "Activity points report",
+                    "num_students": 200,
+                    "avg_reports_per_student": 2.0,
+                    "avg_pages_per_report": 60.0
+                },
+                {
                     "name": "Minor Project",
                     "num_students": 200,
                     "avg_reports_per_student": 1.25,
-                    "avg_pages_per_report": 50
+                    "avg_pages_per_report": 50.0
                 }
             ]
         }
