@@ -86,8 +86,7 @@ function renderSemesterPage(data, dept, sem) {
     subjectBreakdown += "</ul>";
 
     document.getElementById("content").innerHTML = `
-        <h2>${dept.toUpperCase()} - Semester ${sem} Impact</h2>
-        <p><strong>Total Trees Cut in Semester ${sem}:</strong> ${totalTrees.toFixed(2)}</p>
+        <p><strong>Total Trees Cut by ${dept.toUpperCase()} department for Semester ${sem}:</strong> ${totalTrees.toFixed(2)}</p>
         <h2>Breakdown by Subject</h2>
         ${subjectBreakdown}
     `;
