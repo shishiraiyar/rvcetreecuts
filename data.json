@@ -12,7 +12,81 @@
                     "name": "Minor Project",
                     "num_students": 200,
                     "avg_reports_per_student": 1.25,
+                    "avg_pages_per_report": 40.0
+                },
+                {
+                    "name": "PADP",
+                    "num_students": 200,
+                    "avg_reports_per_student": 1.25,
+                    "avg_pages_per_report": 40.0
+                },
+                {
+                    "name": "Internship",
+                    "num_students": 200,
+                    "avg_reports_per_student": 1.5,
+                    "avg_pages_per_report": 30.0
+                }
+            ]
+        },
+        "3": {
+            "subjects": [
+                {
+                    "name": "DTL",
+                    "num_students": 300,
+                    "avg_reports_per_student": 0.25,
                     "avg_pages_per_report": 50.0
+                }
+            ]
+        }
+    },
+    "aerospace": {
+        "7": {
+            "subjects": [
+                {
+                    "name": "Internship report",
+                    "num_students": 65,
+                    "avg_reports_per_student": 2.0,
+                    "avg_pages_per_report": 40.0
+                }
+            ]
+        },
+        "5": {
+            "subjects": [
+                {
+                    "name": "Ganesh",
+                    "num_students": 65,
+                    "avg_reports_per_student": 3.0,
+                    "avg_pages_per_report": 30.0
+                },
+                {
+                    "name": "Universal Human Values",
+                    "num_students": 65,
+                    "avg_reports_per_student": 0.2,
+                    "avg_pages_per_report": 30.0
+                }
+            ]
+        }
+    },
+    "ise": {
+        "5": {
+            "subjects": [
+                {
+                    "name": "DBMS",
+                    "num_students": 93,
+                    "avg_reports_per_student": 3.0,
+                    "avg_pages_per_report": 50.0
+                }
+            ]
+        }
+    },
+    "bt": {
+        "7": {
+            "subjects": [
+                {
+                    "name": "All Subjects",
+                    "num_students": 66,
+                    "avg_reports_per_student": 6.75,
+                    "avg_pages_per_report": 20.0
                 }
             ]
         }
