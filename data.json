@@ -75,6 +75,12 @@
                     "num_students": 93,
                     "avg_reports_per_student": 3.0,
                     "avg_pages_per_report": 50.0
+                },
+                {
+                    "name": "AI/ML",
+                    "num_students": 94,
+                    "avg_reports_per_student": 3.0,
+                    "avg_pages_per_report": 20.0
                 }
             ]
         }
